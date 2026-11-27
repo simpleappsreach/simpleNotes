@@ -128,7 +128,7 @@ Execute:
 ```bash
 npx cap open android
 ```
-
+ 
 This opens the generated Android project in Android Studio.
 
 Wait for Gradle synchronization to finish.
